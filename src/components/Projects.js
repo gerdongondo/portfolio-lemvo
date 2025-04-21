@@ -16,9 +16,9 @@ function Projects() {
                 alt="Projet 1"
               />
               <div className="card-body">
-                <h5 className="card-title">Responsable RH</h5>
+                <h5 className="card-title">Responsable HSE</h5>
                 <p className="card-text">
-                 Responsable RH avec un contract CDD a stram
+                 Responsable HSE avec un contract CDD a Stram
                 </p>
               </div>
             </div>
@@ -35,7 +35,7 @@ function Projects() {
               <div className="card-body">
                 <h5 className="card-title">Téléconseiller</h5>
                 <p className="card-text">
-                  Téléconseiller avec un contrat de CDD a intelcia
+                  Téléconseiller avec un contrat de CDD a Intelcia
                 </p>
               </div>
             </div>
